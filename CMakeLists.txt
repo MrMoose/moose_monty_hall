@@ -9,7 +9,7 @@ project(moose_monty)
 find_package(Boost COMPONENTS random chrono thread system REQUIRED)
 
 include_directories(
-	${CMAKE_SOURCE_DIR}/..
+	${CMAKE_SOURCE_DIR}
 	${Boost_INCLUDE_DIRS}
 )
 

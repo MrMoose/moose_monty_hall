@@ -3,7 +3,7 @@
 //  Software License, Version 1.0. (See accompanying file
 //  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 
-#include <moose/tools/Random.hpp>
+#include <tools/Random.hpp>
 
 #include <boost/thread.hpp>
 #include <boost/accumulators/accumulators.hpp>
